@@ -1,5 +1,5 @@
 # ざぎんスタンプ
-![LGTM](https://raw.githubusercontent.com/ginzarb/zagin_stamps/master/happi_coat/tora_stamp.png)
+![LGTM](https://raw.githubusercontent.com/ginzarb/zagin_stamps/master/images/happi_coat/tora_stamp.png)
 
 ## 対象者
 開発者、とくにruby開発者
